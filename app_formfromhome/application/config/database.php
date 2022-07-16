@@ -84,7 +84,7 @@ if(ENVIRONMENT !== 'production') {
 } else {
     $db = [
             'username' => 'adminfor_public',
-            'password' => 'p&zq2];v.^vx',
+            'password' => '5*P6!HV}~Ve.',
             'database' => 'adminfor_public',
             'hostname' => 'localhost'
     ];
